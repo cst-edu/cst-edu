@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Steven Cole.
 
 <!--
 **cst-edu/cst-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
